@@ -1,0 +1,53 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-GLhlTQ8iRABdZLl6O5oVMWSktQOp6b7In1Zl3/JiRsCkpd+qh2O+P1Q8Vi8Zl6a3" crossorigin="anonymous">
+    <link rel="stylesheet" href="style4.css">
+
+    <title>Practice Work</title>
+</head>
+<body>
+    <a href="index.html" class="arrow-back">&#8592; Back</a>
+
+                <section class="practice" id="practice">
+ 
+
+                <h5 class="section-title padd-15" style="font-size: 1.5rem;">HTML /CSS WORK</h5>
+                <div class="row">
+                    <a href="custom%20Icon.html" class="prac-link practice-link padd-15"><h5>Custom Icon</h5></a>
+                    <a href="custom%20list.html" class="prac-link practice-link padd-15"><h5>Custom List</h5></a>
+                    <a href="Division.html" class="prac-link practice-link padd-15"><h5>Division</h5></a>
+                    <a href="Link%20in%20html.html" class="prac-link practice-link padd-15"><h5>Link in Html</h5></a>
+                    <a href="List%20in%20html.html" class="prac-link practice-link padd-15"><h5>List in Html</h5></a>
+                    <a href="viewport.html" class="prac-link practice-link padd-15"><h5>Device viewport</h5></a>
+                    <a href="Types%20of%20Div.html" class="prac-link practice-link padd-15"><h5>Types Of Div</h5></a>
+                    <a href="Divweblayout.html" class="prac-link practice-link padd-15"><h5>Div Sample</h5></a>
+                    <a href="layout.html" class="prac-link practice-link padd-15"><h5>Layout Design</h5></a>
+                    <a href="Tabledesign.html" class="prac-link practice-link padd-15"><h5>Table Design</h5></a>
+                    <a href="news.html" class="prac-link practice-link padd-15"><h5>News Layout</h5></a>
+                    <a href="image_animation.html" class="prac-link practice-link padd-15"><h5>Image Animation</h5></a>
+                    <a href="I-Frame.html" class="prac-link practice-link padd-15"><h5>I-Frame</h5></a>
+                    <a href="iframe_2.html" class="prac-link practice-link padd-15"><h5>I-Frame2</h5></a>
+                    <a href="Login_form.html" class="prac-link practice-link padd-15"><h5>Login Form</h5></a>
+                    <a href="Registration_form.html" class="prac-link practice-link padd-15"><h5>Registration Form</h5></a>
+                    <a href="animation.html" class="prac-link practice-link padd-15"><h5>Animation</h5></a>
+                    <a href="Banner_animation.html" class="prac-link practice-link padd-15"><h5>Banner</h5></a>
+                    <a href="large_banner.html" class="prac-link practice-link padd-15"><h5>Banner 2</h5></a>
+                    <a href="gym.html" class="prac-link practice-link padd-15"><h5>Gym Website</h5></a>
+                    <a href="test.html" class="prac-link practice-link padd-15"><h5>Test</h5></a>
+                    <a href="#" class="prac-link practice-link padd-15"><h5>None</h5></a>
+                    <a href="#" class="prac-link practice-link padd-15"><h5>None</h5></a>
+                    <a href="#" class="prac-link practice-link padd-15"><h5>None</h5></a>
+                    <a href="#" class="prac-link practice-link padd-15"><h5>None</h5></a>
+                </div>
+                =
+        </section>
+        
+</body>
+</html>
